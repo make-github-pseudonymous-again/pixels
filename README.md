@@ -1,4 +1,6 @@
-# Pixels
+:flower_playing_cards: Pixels
+[![License](https://img.shields.io/github/license/aureooms/pixels.svg?style=flat)](https://raw.githubusercontent.com/aureooms/pixels/main/LICENSE)
+==
 
 > 1x1 black and white images in jpg, png, gif and ppm formats
 
